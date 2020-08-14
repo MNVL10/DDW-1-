@@ -1,0 +1,5 @@
+.a   { background-color: red; }
+.b   { background-color: #FF0000; }
+.c   { background-color: RGB(255,0,0); }
+.d    { background-color: HSL(0,100%,50%) }
+body { background-image: url("https://bit.ly/2slA7jo"); }

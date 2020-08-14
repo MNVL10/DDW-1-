@@ -1,0 +1,43 @@
+* {
+    margin: 20px;
+}
+
+h1 {
+    color: brown;
+    font-family: cursive;
+    font-size: 45px;
+}
+
+p {
+    font-size: 16px;
+} 
+
+p u {
+    color: rgb(77, 13, 26);
+    font-style: italic;
+}
+
+.estilounico {
+    color: darkgreen;
+    font-style: oblique;
+}
+
+p #family {
+    font-family: monospace;
+}
+
+p em#otro {
+    color: rgb(5, 128, 107);
+}
+
+ul li strong#cinco {
+    color: purple;
+}
+
+.seis {
+    color: rgb(201, 63, 47);
+}
+
+li.estilounico .seis {
+    font-style: italic;
+}
